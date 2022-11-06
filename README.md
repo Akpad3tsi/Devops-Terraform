@@ -1,4 +1,4 @@
-# Terraform-The-Hard-Way
+#DevOps-Terraform
 
 This tutorial contains a full explanation of how to use Terraform in today's world. Although there may be a lot of content out there for Terraform, it doesn't teach you how to think about Terraform with a developer hat on. I promise you that thinking about Terraform as a developer, even if you aren't one, will **100 percent** put you ahead of many engineers out there.
 
